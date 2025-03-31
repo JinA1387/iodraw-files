@@ -168,7 +168,7 @@
         <mxCell id="77e6c97f196da883-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-6" source="77e6c97f196da883-21" target="77e6c97f196da883-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="enCgK99QlGgEsd9a_ql--5" value="" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="enCgK99QlGgEsd9a_ql--5" value="抢修应用服务" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="40" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="其他外部系统" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
